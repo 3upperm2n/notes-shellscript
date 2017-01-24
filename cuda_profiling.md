@@ -1,4 +1,4 @@
-[1] ###select the avg from the following nvprofling trace
+###select the avg from the following nvprofling trace
 ```bash
 ==9630== NVPROF is profiling process 9630, command: ./h2d 1 0 1                 
 ==9630== Profiling application: ./h2d 1 0 1                                     
